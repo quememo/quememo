@@ -1,6 +1,6 @@
 ### Hola! 👋
 
-Soy egresado en vía de titulación de Ingeniería Civil Industrial, diploma Tecnologías de Información en la Pontificia Universidad Católica de Chile. Apasionado por la tecnología, me interesa el desarrollo de software, especialmente en el área de Front-end.
+Soy Ingeniero Civil Industrial, diploma Tecnologías de Información en la Pontificia Universidad Católica de Chile. Apasionado por la tecnología, me interesa el desarrollo de software, especialmente en el área de Front-end.
 
 ## Manejo Lenguajes de programación y Tecnologías
 
@@ -10,7 +10,7 @@ Soy egresado en vía de titulación de Ingeniería Civil Industrial, diploma Tec
 
 ### Contacto 📫
 - jmrojas2@uc.cl
-- https://www.linkedin.com/in/quememo/
+- https://www.linkedin.com/in/jmrojasdev/
 
 <!--
 **quememo/quememo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
